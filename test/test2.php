@@ -1,3 +1,3 @@
 <?php
-  print "true";
+  print "test";
 ?>
